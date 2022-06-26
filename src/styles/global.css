@@ -1,0 +1,19 @@
+.text-center {
+    text-align: center;
+}
+
+.container-login {
+    width: 100vw;
+    height: 100vh;
+    display: inline-grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-login-content {
+    width: 18vw;
+}
+
+body{
+    background-color: #3333338f;
+}
